@@ -8,8 +8,7 @@ Simple example how to use https://github.com/adleritech/flexibee Java Library fo
 1. git clone git@github.com:Vitexus/AbraFlexi-Java-client.git
 1. mvn clean compile assembly:single
 1. java -jar ./target/checker-1.0-SNAPSHOT-jar-with-dependencies.jar
-
-mvn clean compile assembly:single
+1. mvn clean compile assembly:single
 
 **Tested with java 11**
 
